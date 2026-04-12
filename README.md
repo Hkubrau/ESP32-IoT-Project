@@ -116,7 +116,7 @@ LCD suresi degistirildi: 4 sn
 ## 📞 İletişim
 
 - 📧 **Email:** [ulkehaticekubra@gmail.com]
-- 👤 **Author:**  Hatice Kübra ÜLKE
+- 👤 **Author:** [Hatice Kübra ÜLKE](https://github.com/Hkubrau)
 - 🐛 **Issues:** Feel free to report bugs or suggest features on [GitHub Issues](../../issues)
 
 ---
